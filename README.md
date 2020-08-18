@@ -1,4 +1,4 @@
-### Show App
+## Show App
 
 ![Show](https://github.com/showMoneyapp/Show/blob/master/res/top_en.png)
 
@@ -19,6 +19,14 @@ So we think , based on MetaID protocol, we can build a global social center of t
 
 So we build up this App now, It is Show App.
 
+
+
+Show App is a social app based entirely on MetaID, benefiting from the MetaID protocol, we believe it will become everyone’s social center. Not only can it provide you with a on-chain P2P encrypted chat function, it is also your BSV global notification center. For example, if someone sends you a private message in a metaid-based website, or gives you a Like on a Metaid-based app, or someone makes a donation with BSV to you, the Show App will send you a notification, and you can immediately chat with the the person who interacts with you in the Show App.
+
+Show App is also a MetaID-enabled Applications center. You can use all applications that support MetaID in one App, and the number of MetaID-enabled App is growing fast.
+
+
+
 ![](https://github.com/showMoneyapp/Show/blob/master/res/1.png)
 
 ![](https://github.com/showMoneyapp/Show/blob/master/res/2.png)
@@ -29,7 +37,5 @@ So we build up this App now, It is Show App.
 
 
 
-Show App is a social app based entirely on MetaID, benefiting from the MetaID protocol, we believe it will become everyone’s social center. Not only can it provide you with a on-chain P2P encrypted chat function, it is also your BSV global notification center. For example, if someone sends you a private message in a metaid-based website, or gives you a Like on a Metaid-based app, or someone makes a donation with BSV to you, the Show App will send you a notification, and you can immediately chat with the the person who interacts with you in the Show App.
 
-Show App is also a MetaID-enabled Applications center. You can use all applications that support MetaID in one App, and the number of MetaID-enabled App is growing fast.
 
